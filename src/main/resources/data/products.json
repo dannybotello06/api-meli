@@ -1,0 +1,56 @@
+[
+  {
+    "id": "p-1001",
+    "name": "Acme Monitor 27\" 4K",
+    "imageUrl": "https://picsum.photos/id/1011/800/600",
+    "description": "27-inch 4K IPS monitor with HDR10.",
+    "price": 349.99,
+    "rating": 4.6,
+    "specs": {"Panel": "IPS", "Resolution": "3840x2160", "RefreshRate": "60Hz", "Ports": "2xHDMI, 1xDP"}
+  },
+  {
+    "id": "p-1002",
+    "name": "Bolt Mechanical Keyboard",
+    "imageUrl": "https://picsum.photos/id/1062/800/600",
+    "description": "Hot-swappable 75% board with RGB.",
+    "price": 129.00,
+    "rating": 4.4,
+    "specs": {"Switches": "Gateron Brown", "Layout": "75%", "Connectivity": "USB-C"}
+  },
+  {
+    "id": "p-1003",
+    "name": "Nova Wireless Mouse",
+    "imageUrl": "https://picsum.photos/id/1080/800/600",
+    "description": "Ergonomic mouse with multi-device pairing.",
+    "price": 59.99,
+    "rating": 4.3,
+    "specs": {"DPI": "8000", "Battery": "USB-C Rechargeable", "Weight": "78g"}
+  },
+  {
+    "id": "p-1004",
+    "name": "Terra Laptop 14" ,
+    "imageUrl": "https://picsum.photos/id/180/800/600",
+    "description": "14\" ultrabook with 16GB RAM, 512GB SSD.",
+    "price": 899.00,
+    "rating": 4.7,
+    "specs": {"CPU": "i7-1360P", "RAM": "16GB", "Storage": "512GB NVMe", "Display": "14\" 2.8K"}
+  },
+  {
+    "id": "p-1005",
+    "name": "Aurora Earbuds",
+    "imageUrl": "https://picsum.photos/id/29/800/600",
+    "description": "ANC earbuds with wireless charging.",
+    "price": 99.50,
+    "rating": 4.1,
+    "specs": {"ANC": "Yes", "Codec": "AAC", "BatteryLife": "7h + 21h case"}
+  },
+  {
+    "id": "p-1006",
+    "name": "Nimbus Smartwatch",
+    "imageUrl": "https://picsum.photos/id/100/800/600",
+    "description": "AMOLED smartwatch with GPS and NFC.",
+    "price": 219.99,
+    "rating": 4.5,
+    "specs": {"Display": "1.4\" AMOLED", "Waterproof": "5ATM", "GPS": "Multi-band"}
+  }
+]
